@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "insertjdbc",
+            "request": "launch",
+            "mainClass": "src.insertjdbc",
+            "projectName": "JDBC Project_22fa8bf3"
+        },
+        {
+            "type": "java",
             "name": "JdbcProject",
             "request": "launch",
             "mainClass": "src.JdbcProject",
