@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "daowithjdbc",
+            "request": "launch",
+            "mainClass": "src.daowithjdbc",
+            "projectName": "JDBC Project_22fa8bf3"
+        },
+        {
+            "type": "java",
             "name": "preparedStatement",
             "request": "launch",
             "mainClass": "src.preparedStatement",
