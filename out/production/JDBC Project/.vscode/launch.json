@@ -1,0 +1,42 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "daowithjdbc",
+            "request": "launch",
+            "mainClass": "src.daowithjdbc",
+            "projectName": "JDBC Project_22fa8bf3"
+        },
+        {
+            "type": "java",
+            "name": "preparedStatement",
+            "request": "launch",
+            "mainClass": "src.preparedStatement",
+            "projectName": "JDBC Project_22fa8bf3"
+        },
+        {
+            "type": "java",
+            "name": "insertjdbc",
+            "request": "launch",
+            "mainClass": "src.insertjdbc",
+            "projectName": "JDBC Project_22fa8bf3"
+        },
+        {
+            "type": "java",
+            "name": "JdbcProject",
+            "request": "launch",
+            "mainClass": "src.JdbcProject",
+            "projectName": "JDBC Project_22fa8bf3"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        }
+    ]
+}

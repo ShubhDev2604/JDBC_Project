@@ -35,6 +35,10 @@ public class JdbcProject {
             System.out.println("ErrorCode: " + e.getErrorCode());
             e.printStackTrace();
             return;
+        } catch (Exception e) {
+            System.out.println("Exception: " + e.getMessage());
+            e.printStackTrace();
+            return;
         }
     }
 }
